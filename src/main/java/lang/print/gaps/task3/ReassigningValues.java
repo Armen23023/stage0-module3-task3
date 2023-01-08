@@ -12,6 +12,6 @@ public class ReassigningValues {
         first = 15;
         second = 6;
         third = 4;
-        System.out.print(first + "\n" + second + "\n" + third);
+        System.out.println(first + "\n" + second + "\n" + third);
     }
 }
